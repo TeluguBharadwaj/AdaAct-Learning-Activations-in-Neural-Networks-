@@ -20,3 +20,5 @@ The experiment results demonstrate the effectiveness of the model in adapting th
 
 In conclusion, the approach of adapting the activation function based on the dataset shows promise in improving the performance of neural networks. The inclusion of the equation g(x) = k0 + k1 * x allows the model to learn the optimal activation function parameters, leading to enhanced approximation of the target function. Further research and exploration can be conducted to investigate the potential of this approach in other domains and datasets.
 
+Datasets used: Iris,MNSIT,Wisconsin Breast Cancer,Bank Note, 
+
